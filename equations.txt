@@ -1,0 +1,6 @@
+﻿"TopHoles"= 6
+"BottomHoles"=6
+"FilterDiameter" = 110
+"TelescopeDiameter"= 102
+"FilterHeight"= 8.1
+"AdapterHoles"= 4
