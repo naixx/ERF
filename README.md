@@ -2,7 +2,7 @@
 
 
 
-The filder is held in TPU threaded part. This part can be screwed into a holder that is put on a telescope. In my case, I put it on FRA400 scope. Holder can be designed for any scope.
+The filder is held in TPU threaded part. This part can be screwed into a holder that is put on a telescope. In my case, I put it on FRA400 scope. Holder part can be designed for any scope.
 
 ![image](https://github.com/user-attachments/assets/7c67254f-8b56-47bf-8ecd-9e47cf8db3c1)
 
